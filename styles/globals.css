@@ -1,3 +1,10 @@
+@import "../public/static/tabler/dist/css/tabler.min.css";
+@import "../public/static/tabler/dist/css/tabler-payments.min.css";
+@import "../public/static/tabler/dist/css/tabler-vendors.min.css";
+@import "../public/static/tabler/dist/css/tabler-flags.min.css";
+@import "../public/static/tabler/dist/css/demo.min.css";
+
+
 html,
 body {
   padding: 0;
